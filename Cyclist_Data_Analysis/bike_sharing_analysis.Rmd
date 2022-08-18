@@ -1,8 +1,5 @@
 ---
 title: 'Case Study 1: How does a bike-share navigate speedy success?'
-output: 
-  html_document: 
-    theme: readable
 ---
 
 ## Introduction
