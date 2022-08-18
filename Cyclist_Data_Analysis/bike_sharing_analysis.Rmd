@@ -233,7 +233,6 @@ all_trips_v2 %>%
   labs(title = "Average Duration by Month for each user type") +
   theme(legend.position = "bottom") 
 ```
-![image](https://user-images.githubusercontent.com/96226288/185450719-7cfd1b92-bee8-4720-85e9-1c92f90cba41.png)
 
 
 ## Exporting summary file for further analysis
